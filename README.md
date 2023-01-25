@@ -11,7 +11,7 @@ I'm Brendan, fullstack developer from Louisville,Ky,USA!
 <li> 📫 How to reach me: <a href = "mailto: bcsswebdev@gmail.com">bcsswebdev@gmail.com</a></li>
 <br>
 <h2>💡 Fun fact:<br></h2> <p>Did you know Charlie Chaplan's mustache was fake?! </p>
-<img src="https://giphy.com/embed/83QtfwKWdmSEo" width="480" height="291" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-more-you-know-83QtfwKWdmSEo">via GIPHY</a></p>
+
 
 <h2>Tools that I use</h2>
 <p align="left">
